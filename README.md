@@ -1,6 +1,6 @@
 # Customer Retention
 
-This project focuses on predicting customer churn using various machine learning techniques. It utilizes a dataset containing customer information and service usage patterns to build and evaluate predictive models.
+This project focuses on predicting customer retention using various machine learning techniques. It utilizes a dataset containing customer information and service usage patterns to build and evaluate predictive models.
 
 ## Key Features:
 
